@@ -67,3 +67,10 @@ Gitのバージョン管理に必須のコマンドです。
 | `git diff` | 作業中の変更内容を比較して表示 |
 | `git reset` | ステージングエリアに追加した変更を取り消し |
 | `git stash` | 作業中の変更を一時的に退避 |
+| `git config --global init.defalutBranch main` | デフォルトブランチ名を設定する |
+| `git config init.defalutbranch` | 設定内容を確認する |
+| `git config --global http.proxy http://example.com:8080` | プロキシ環境でGitを利用する場合の設定 |
+| `git config --global http.proxy http://username:password@example.com:8080` | プロキシに認証が必要な場合 |
+| `gitk` | 過去のコミット履歴を確認できる |
+
+

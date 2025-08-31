@@ -52,7 +52,7 @@ Git Bashを開き、以下のコマンドを順番に実行します。
 
     ```bash
     git add .
-    git commit -m "Add Git Bash commands file"
+    git commit -m "変更を更新"
     ```
 
 5.  **GitHubへプッシュ**
